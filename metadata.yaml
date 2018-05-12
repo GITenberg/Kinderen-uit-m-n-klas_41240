@@ -1,0 +1,27 @@
+_repo: Kinderen-uit-m-n-klas_41240
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41240-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cohen de Vries, P. J.
+    aliases:
+    - Vries, P. J. Cohen de
+    - Vries, Paulina Jacoba Cohen-de
+    gutenberg_agent_id: '41062'
+    url: http://www.gutenberg.org/2009/agents/41062
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41240'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'School children -- Netherlands'
+- !lcc 'LB'
+title: Kinderen uit m'n klas
+url: http://www.gutenberg.org/ebooks/41240
